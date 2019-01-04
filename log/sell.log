@@ -1,0 +1,7 @@
+2018-12-19 17:04:59.046  INFO 25000 --- [main] com.imooc.LoggerTest                     : Starting LoggerTest on Airsty.local with PID 25000 (started by songtianyu in /Users/songtianyu/Documents/workspace/sell)
+2018-12-19 17:04:59.061  INFO 25000 --- [main] com.imooc.LoggerTest                     : No active profile set, falling back to default profiles: default
+2018-12-19 17:05:02.547  INFO 25000 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-19 17:05:03.086  INFO 25000 --- [main] com.imooc.LoggerTest                     : Started LoggerTest in 5.635 seconds (JVM running for 8.126)
+2018-12-19 17:05:03.367  INFO 25000 --- [main] com.imooc.LoggerTest                     : djhajskhdkla
+2018-12-19 17:05:03.367 ERROR 25000 --- [main] com.imooc.LoggerTest                     : dhjakshdilua
+2018-12-19 17:05:03.374  INFO 25000 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
